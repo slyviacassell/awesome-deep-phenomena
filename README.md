@@ -164,6 +164,11 @@ Our understanding of modern neural networks lags behind their practical successe
   - Key Word: Formula-driven Supervised Learning.
   - <details><summary>Digest</summary> The paper proposes a novel concept, Formula-driven Supervised Learning. We automatically generate image patterns and their category labels by assigning fractals, which are based on a natural law existing in the background knowledge of the real world. Theoretically, the use of automatically generated images instead of natural images in the pre-training phase allows us to generate an infinite scale dataset of labeled images. Although the models pre-trained with the proposed Fractal DataBase (FractalDB), a database without natural images, does not necessarily outperform models pre-trained with human annotated datasets at all settings, we are able to partially surpass the accuracy of ImageNet/Places pre-trained models. 
 
+- Double Descent: On the Role of Optimization in Double Descent: A Least Squares Study. [paper]](https://arxiv.org/abs/2107.12685)
+  - Ilja Kuzborskij, Csaba Szepesvári, Omar Rivasplata, Amal Rannen-Triki, Razvan Pascanu
+  - Key Word: Double Descent, Generalization
+  - <details><summary>Digest</summary> Empirically it has been observed that the performance of deep neural networks steadily improves as we increase model size, contradicting the classical view on overﬁtting and generalization. The double descent phenomena has been proposed to reconcile this observation with theory, suggesting that the test error has a second descent when the model becomes sufﬁciently overparametrized, as the model size itself acts as an implicit regularizer. This paper provides a careful study of learning dynamics as a function of model size for the least squares scenario.
+
 ### Empirical Study: 2020
 
 - When Do Curricula Work? [[paper]](https://arxiv.org/abs/2012.03107) [[code]](https://github.com/google-research/understanding-curricula)
