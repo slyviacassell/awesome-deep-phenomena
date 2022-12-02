@@ -16,7 +16,7 @@ Our understanding of modern neural networks lags behind their practical successe
 ## Empirical Study
 
 ## Todo
-- Neural Tangent Kernel (Lazy Training): A note on lazy training in supervised differentiable programming, Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee, On Lazy Training in Differentiable Programming, https://m.thepaper.cn/baijiahao_5526219, https://zhuanlan.zhihu.com/p/105871604
+- Neural Tangent Kernel (Lazy Training): A note on lazy training in supervised differentiable programming, Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee, On Lazy Training in Differentiable Programming, https://m.thepaper.cn/baijiahao_5526219, https://zhuanlan.zhihu.com/p/105871604, 和fisher信息有关？
 - Double Descent
 
 ### Empirical Study: 2022
